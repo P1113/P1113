@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Microsoft Fabric Star Schema for easier focussed insights
+- 🔭 I’m currently working on Microsoft Fabric Star Schema CV for easier focussed insights
 - 🌱 I’m currently learning Azure Fabric 
 - 👯 I’m looking to collaborate on Integration Work
 - 🤔 I’m looking for help with The meaning of life
